@@ -6,3 +6,4 @@ __pycache__/
 .agents/
 .agents 2/
 arize-instrumentation.zip
+skills-lock.json
